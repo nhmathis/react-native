@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://reactnative.dev/">
-    React Native
+    React Native Nick Addition
   </a>
 </h1>
 
